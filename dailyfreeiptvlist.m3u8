@@ -1,0 +1,22 @@
+#EXTM3U
+#PLAYLIST:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",C MORE FIRST FHD
+http://185.71.64.167:80/307245103371/307245103371/83046?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",JIM
+http://rv.therevenge.co:80/565656/565656/83039?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",LIV
+http://rv.therevenge.co:80/565656/565656/83059?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",MTV3 HD
+http://rv.therevenge.co:80/live/242424/242424/83040.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",NELONEN
+http://rv.therevenge.co:80/live/242424/242424/83058.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",SUB
+http://rv.therevenge.co:80/live/242424/242424/83056.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",YLE TV1 HD
+http://rv.therevenge.co:80/565656/565656/83063?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",YLE TV2 HD
+http://rv.therevenge.co:80/565656/565656/83062?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",Yle TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/fi" group-title="s",Yle TV2
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8?checkedby:dailyfreeiptvlist.com
