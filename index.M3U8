@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",AlfaTV (432p) [Not 24/7]
+https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Animal Planet
+http://new-pro.tv:8080/Fernando/123321/151050?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",BBC Earth
+http://new-pro.tv:8080/Fernando/123321/151054?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Boomerang
+http://new-pro.tv:8080/Fernando/123321/151090?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",C More First HD
+http://new-pro.tv:8080/Fernando/123321/88717?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",C More Hits HD
+http://new-pro.tv:8080/Fernando/123321/88720?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",C More Juniori
+http://new-pro.tv:8080/Fernando/123321/88723?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",C More MAX 2
+http://new-pro.tv:8080/Fernando/123321/151064?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",C More Max HD
+http://new-pro.tv:8080/Fernando/123321/9622?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",C More Sport 1 HD
+http://new-pro.tv:8080/Fernando/123321/33588?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",C More Sport 2 HD
+http://new-pro.tv:8080/Fernando/123321/88722?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Cartoon Network
+http://new-pro.tv:8080/Fernando/123321/151089?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://new-pro.tv:8080/Fernando/123321/13459?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Disney Channel
+http://new-pro.tv:8080/Fernando/123321/88725?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Disney Junior HD
+http://new-pro.tv:8080/Fernando/123321/151088?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",HISTORY
+http://new-pro.tv:8080/Fernando/123321/151052?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",HISTORY 2 HD
+http://new-pro.tv:8080/Fernando/123321/151053?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",ID Investigation Discovery
+http://new-pro.tv:8080/Fernando/123321/151076?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",JIM
+http://new-pro.tv:8080/Fernando/123321/9619?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",MTV
+http://new-pro.tv:8080/Fernando/123321/151077?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",MTV3 HD
+http://new-pro.tv:8080/Fernando/123321/151087?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Nat Geo HD
+http://new-pro.tv:8080/Fernando/123321/88724?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Nat Geo Wild
+http://new-pro.tv:8080/Fernando/123321/151051?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Nelonen Prime
+http://new-pro.tv:8080/Fernando/123321/88719?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Nick Jr. Nordic
+http://new-pro.tv:8080/Fernando/123321/88728?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",NickToons HD
+http://new-pro.tv:8080/Fernando/123321/88718?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Nickelodeon
+http://new-pro.tv:8080/Fernando/123321/9616?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Sub
+http://new-pro.tv:8080/Fernando/123321/9610?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" group-title="Undefined",Taivas TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Telia Liiga 3
+http://new-pro.tv:8080/Fernando/123321/151071?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Telia Liiga 4
+http://new-pro.tv:8080/Fernando/123321/151072?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",VIASAT HOCKEY HD
+http://new-pro.tv:8080/Fernando/123321/151067?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Vh1
+http://new-pro.tv:8080/Fernando/123321/151078?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Viasat Explore
+http://new-pro.tv:8080/Fernando/123321/151047?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Viasat Film Action
+http://new-pro.tv:8080/Fernando/123321/151092?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Viasat Film Family
+http://new-pro.tv:8080/Fernando/123321/151094?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Viasat Film Hits
+http://new-pro.tv:8080/Fernando/123321/151093?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Viasat Film Premiere
+http://new-pro.tv:8080/Fernando/123321/151091?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Viasat History
+http://new-pro.tv:8080/Fernando/123321/151048?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Viasat Nature
+http://new-pro.tv:8080/Fernando/123321/151049?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",Viasat Sport 1 (F)
+http://new-pro.tv:8080/Fernando/123321/151080?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",Viasat Sport Golf
+http://new-pro.tv:8080/Fernando/123321/151081?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",Viasat Sport Hockey (F)
+http://new-pro.tv:8080/Fernando/123321/151086?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",Viasat Sport Jalkapallo
+http://new-pro.tv:8080/Fernando/123321/151083?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",Viasat Sport Jalkapallo
+http://new-pro.tv:8080/Fernando/123321/151085?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",Viasat Sport Premium (F)
+http://new-pro.tv:8080/Fernando/123321/151079?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Sport",Viasat Sport Urheilu
+http://new-pro.tv:8080/Fernando/123321/151082?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/MTZM0k5.png" group-title="Undefined",Yle TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Yle TV1 HD
+http://new-pro.tv:8080/Fernando/123321/9609?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/SHLh731.png" group-title="Undefined",Yle TV2
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Yle TV2 HD
+http://new-pro.tv:8080/Fernando/123321/9608?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",Yle Tv Fem
+http://new-pro.tv:8080/Fernando/123321/88716?checkedby:iptvcat.net
